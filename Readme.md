@@ -38,6 +38,8 @@ Video hazırlama ve yayınlamaya ilişkin açıklamalar
 
 15. Video dosyaları ile birlikte "Açık Rıza Beyanı" dosyasının da doldurulması ve moderatöre gönderilmesi gerekmektedir.
 
+16. Nesneye Yönelik Programlama örnek konular excel dosyası, konu ataması yapıldıkça  https://github.com/Bilgisayar-Muhendisligi-Dersleri/videoHazirlama adresinde moderatörler tarafından güncellenmektedir.
+
 Ücretsiz video editör programı
 https://sourceforge.net/projects/openshot-video-editor.mirror/
 
