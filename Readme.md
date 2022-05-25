@@ -35,3 +35,12 @@ Video hazırlama ve yayınlamaya ilişkin açıklamalar
 13. Düzenlenecek videolarda girişte “intro_01.mp3”, videonunu sonunda da “outro.mp3” dosyası kullanılacaktır.
 
 14. Anlatım sırasında İngilizce kelimelerin telaffuzuna dikkat edilmesi ve doğru telaffuz edilmesi gerekmektedir. Bu amaçla google translate servisi kullanılabilir.
+
+Ücretsiz video editör programı
+https://sourceforge.net/projects/openshot-video-editor.mirror/
+
+Ücretsiz ekran kayıt programı
+https://obsproject.com/tr/download
+
+Ücretsiz ses düzenleme editörü:
+https://www.audacityteam.org/download/windows/
