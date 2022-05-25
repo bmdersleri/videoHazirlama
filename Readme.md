@@ -36,6 +36,8 @@ Video hazırlama ve yayınlamaya ilişkin açıklamalar
 
 14. Anlatım sırasında İngilizce kelimelerin telaffuzuna dikkat edilmesi ve doğru telaffuz edilmesi gerekmektedir. Bu amaçla google translate servisi kullanılabilir.
 
+15. Video dosyaları ile birlikte "Açık Rıza Beyanı" dosyasının da doldurulması ve moderatöre gönderilmesi gerekmektedir.
+
 Ücretsiz video editör programı
 https://sourceforge.net/projects/openshot-video-editor.mirror/
 
