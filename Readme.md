@@ -18,7 +18,7 @@ Video hazırlama ve yayınlamaya ilişkin açıklamalar
 
 5.  Video resmi için sunumun ilk sayfasının tam ekran görüntüsü resim dosyası olarak (jpeg veya png formatında) gönderilecektir.
 
-6.  Video, powerpoint sunusu, açıklama yazısı ve video resim dosyalarını göndermek için google drive veya wetransfer kullanılabilir. (Lisans derslerinde dosya gönderimleri moderatörlere yapılacaktır. Yüksek lisans dersleri için gönderim adresi ismkir@gmail.com şeklindedir.) 
+6.  Video, powerpoint sunusu, açıklama yazısı ve video resim dosyalarını göndermek için google drive veya wetransfer kullanılabilir. (Lisans derslerinde dosya gönderimleri moderatörlere yapılacaktır. Yüksek lisans dersleri için gönderim adresi "ismkir @ gmail.com" şeklindedir.) 
 
 7.  Videolar için süre kısıtlaması yoktur.
 
