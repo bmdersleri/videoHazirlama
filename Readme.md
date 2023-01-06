@@ -1,5 +1,5 @@
 Youtube Kanal linkimiz (BMderslerim)
-https://www.youtube.com/channel/UCKdQ3Vg6lf_dWGsQGAQU7zA
+https://www.youtube.com/@bmderslerim
 
 Video hazırlama ve yayınlamaya ilişkin açıklamalar
 
